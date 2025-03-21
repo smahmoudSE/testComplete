@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{92023B2E-EF93-4106-B6A1-7802B8886220}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.browser.pageShop" Data="61717A6970000000010000007606000078017DD47B4C53571C07F07BFBA6B72DAD82A263C81626425BDEE092191E8A0F5EA53C8481C4415C741B08A26CE3E51C6315210282834AC8DC16CD444C109D3AF18150B0303B87BC0A020203D4CD4CFCD365D9F2DDB94D4B48FFE036DF7BCEE9B9E793DFE9C9EDD6B8CF0494E50A21F74D244ED6D0943BE95154B875DE3258E126E451228D9ADA5B9F4C5FEEC8E6CEFFB45FF8EFB93DE2FFAA62250BFB378BDB43DEE467F2B9B4C30AC4D254941795DA79905E182DE6E0DE413E1A1318E813653843A24F7044A3D611DFC43BA27C87EC7990AB206369A15D8743539CD21D54C348118DD1120EBA72F938AD95A039594A2243939D57AF91E3549C1C293EE266B2966BC751CBADE1622EF4498CC5FA76F7CA5E6DAC1C492A71F3726FA717B57BD45AD7682917B7B305684890E06C8A14CBBDC2088969E7466191722D2FFAED55BC2D2A17BE66D746515941A86C4CB5969FCA9A022E25BC9B43CFB17B3413CB7C94878B99229C4992E03BAB5715235950B9F0A296D7B0BC4F53142DE4D252F6BB18259DBE647DC183F9181FE7321C96BCCA686646E1C071B5ADA7393457BE51ECBF3E5411BF8E44E22AF2B0CDB16D4D22A7D55217B1C68835F6A5002D990E4BFB7DC789FB9EED79D906D1A6E8CBBEB3897D21B025A9FF5D84EB7D6E31EB446EEC731D39DC27669B5526C078B908B7F21C50AB6150182136DA2CB67558C577C9B8E1F722B32F18E92429C44D316D41FA602412EF84FF2E52089C068A79AF2D7559ADC73A31CC3A06B55A065AA5A066B9C7F6B7E5BA56171803916B0CC20162EEFB2D145923BB90F5380E9B4BD5F50F8A04AFC7CA8496BA586BA282C1649514DD8552689482067B4F9BBDBEBAE2BE3FCA8C0128225EFE403872C662F0F15422328CD14F2FE689A74D25228C7C25C6F871061395524C9E9461AA468E6B871D5FAE9172DEB299ABA51CB7860B9E2F9AEEFBA19EE404F14A07B7E2C8840679B3A9C899494145B653EBF54322747E2E86F1A804A632291E7EED885F8FCBF18B4E811BC58AC59C2846BF375CDC5057B0E6E5D55E1FB492FCD0EB8B86FE60E886B6A168528BFCF93DF86864F7627CA422CDA077475396183F7EC2A0ED9014570A64682F70446BBE1C67B3C97BB54F8ED3B94E307478A1AB57859F7BD56823E6F7FD413849BCD2A9041C7EF601B4E723AF0BF8B4E0D125F5DC488B37CEE63B4397CA40F7BE04BA34927419AA3F54A0BDC60D239D4A0CF72861EA51C1407293982DFD81A81BDA8A63C43BF2742F3CA23624B0BF8D264C91FCAA3B088B24CF3AFC317CC11B0FCF6F82B95D85B96E3FCC187C3169F0C118718688D94FDA4EB6C6BE00340E46A07C321E7BDAB6F75234F958AFCA5CB7BA57DDC116F325715F7407E2797700160CFE9825DE14F1C67BD4961A1F10AF8B78578CFE681A08438971FB9F725766E9DC5892FDBF3A41CCBFACD61FC47A4AAC39831FA68937413C33711E91FAFA487B8778EDEC195F0B9A75F190286D75D9B7B161F224D325D5DC3C71D8BA9E1067C2A0B65883D6BDDE23D6D52EF53F070A5CF58C94A7B037ECC7E48C847191F2B4BA32B7D6DBAD9ED3A6BBDEAFFB3ABDFF6E6FF39CAFAC76BF999CEEFCE96A67FE1BF6EBD8F1FF00FF85E5" />
+					<Bitmap Name="Aliases.browser.pageShop.header" Data="61717A6970000000010000007606000078017DD47B4C53571C07F07BFBA6B72DAD82A263C81626425BDEE092191E8A0F5EA53C8481C4415C741B08A26CE3E51C6315210282834AC8DC16CD444C109D3AF18150B0303B87BC0A020203D4CD4CFCD365D9F2DDB94D4B48FFE036DF7BCEE9B9E793DFE9C9EDD6B8CF0494E50A21F74D244ED6D0943BE95154B875DE3258E126E451228D9ADA5B9F4C5FEEC8E6CEFFB45FF8EFB93DE2FFAA62250BFB378BDB43DEE467F2B9B4C30AC4D254941795DA79905E182DE6E0DE413E1A1318E813653843A24F7044A3D611DFC43BA27C87EC7990AB206369A15D8743539CD21D54C348118DD1120EBA72F938AD95A039594A2243939D57AF91E3549C1C293EE266B2966BC751CBADE1622EF4498CC5FA76F7CA5E6DAC1C492A71F3726FA717B57BD45AD7682917B7B305684890E06C8A14CBBDC2088969E7466191722D2FFAED55BC2D2A17BE66D746515941A86C4CB5969FCA9A022E25BC9B43CFB17B3413CB7C94878B99229C4992E03BAB5715235950B9F0A296D7B0BC4F53142DE4D252F6BB18259DBE647DC183F9181FE7321C96BCCA686646E1C071B5ADA7393457BE51ECBF3E5411BF8E44E22AF2B0CDB16D4D22A7D55217B1C68835F6A5002D990E4BFB7DC789FB9EED79D906D1A6E8CBBEB3897D21B025A9FF5D84EB7D6E31EB446EEC731D39DC27669B5526C078B908B7F21C50AB6150182136DA2CB67558C577C9B8E1F722B32F18E92429C44D316D41FA602412EF84FF2E52089C068A79AF2D7559ADC73A31CC3A06B55A065AA5A066B9C7F6B7E5BA56171803916B0CC20162EEFB2D145923BB90F5380E9B4BD5F50F8A04AFC7CA8496BA586BA282C1649514DD8552689482067B4F9BBDBEBAE2BE3FCA8C0128225EFE403872C662F0F15422328CD14F2FE689A74D25228C7C25C6F871061395524C9E9461AA468E6B871D5FAE9172DEB299ABA51CB7860B9E2F9AEEFBA19EE404F14A07B7E2C8840679B3A9C899494145B653EBF54322747E2E86F1A804A632291E7EED885F8FCBF18B4E811BC58AC59C2846BF375CDC5057B0E6E5D55E1FB492FCD0EB8B86FE60E886B6A168528BFCF93DF86864F7627CA422CDA077475396183F7EC2A0ED9014570A64682F70446BBE1C67B3C97BB54F8ED3B94E307478A1AB57859F7BD56823E6F7FD413849BCD2A9041C7EF601B4E723AF0BF8B4E0D125F5DC488B37CEE63B4397CA40F7BE04BA34927419AA3F54A0BDC60D239D4A0CF72861EA51C1407293982DFD81A81BDA8A63C43BF2742F3CA23624B0BF8D264C91FCAA3B088B24CF3AFC317CC11B0FCF6F82B95D85B96E3FCC187C3169F0C118718688D94FDA4EB6C6BE00340E46A07C321E7BDAB6F75234F958AFCA5CB7BA57DDC116F325715F7407E2797700160CFE9825DE14F1C67BD4961A1F10AF8B78578CFE681A08438971FB9F725766E9DC5892FDBF3A41CCBFACD61FC47A4AAC39831FA68937413C33711E91FAFA487B8778EDEC195F0B9A75F190286D75D9B7B161F224D325D5DC3C71D8BA9E1067C2A0B65883D6BDDE23D6D52EF53F070A5CF58C94A7B037ECC7E48C847191F2B4BA32B7D6DBAD9ED3A6BBDEAFFB3ABDFF6E6FF39CAFAC76BF999CEEFCE96A67FE1BF6EBD8F1FF00FF85E5" />
+					<Bitmap Name="Aliases.browser.pageShop.header.navUsd" Data="61717A6970000000010000007606000078017DD47B4C53571C07F07BFBA6B72DAD82A263C81626425BDEE092191E8A0F5EA53C8481C4415C741B08A26CE3E51C6315210282834AC8DC16CD444C109D3AF18150B0303B87BC0A020203D4CD4CFCD365D9F2DDB94D4B48FFE036DF7BCEE9B9E793DFE9C9EDD6B8CF0494E50A21F74D244ED6D0943BE95154B875DE3258E126E451228D9ADA5B9F4C5FEEC8E6CEFFB45FF8EFB93DE2FFAA62250BFB378BDB43DEE467F2B9B4C30AC4D254941795DA79905E182DE6E0DE413E1A1318E813653843A24F7044A3D611DFC43BA27C87EC7990AB206369A15D8743539CD21D54C348118DD1120EBA72F938AD95A039594A2243939D57AF91E3549C1C293EE266B2966BC751CBADE1622EF4498CC5FA76F7CA5E6DAC1C492A71F3726FA717B57BD45AD7682917B7B305684890E06C8A14CBBDC2088969E7466191722D2FFAED55BC2D2A17BE66D746515941A86C4CB5969FCA9A022E25BC9B43CFB17B3413CB7C94878B99229C4992E03BAB5715235950B9F0A296D7B0BC4F53142DE4D252F6BB18259DBE647DC183F9181FE7321C96BCCA686646E1C071B5ADA7393457BE51ECBF3E5411BF8E44E22AF2B0CDB16D4D22A7D55217B1C68835F6A5002D990E4BFB7DC789FB9EED79D906D1A6E8CBBEB3897D21B025A9FF5D84EB7D6E31EB446EEC731D39DC27669B5526C078B908B7F21C50AB6150182136DA2CB67558C577C9B8E1F722B32F18E92429C44D316D41FA602412EF84FF2E52089C068A79AF2D7559ADC73A31CC3A06B55A065AA5A066B9C7F6B7E5BA56171803916B0CC20162EEFB2D145923BB90F5380E9B4BD5F50F8A04AFC7CA8496BA586BA282C1649514DD8552689482067B4F9BBDBEBAE2BE3FCA8C0128225EFE403872C662F0F15422328CD14F2FE689A74D25228C7C25C6F871061395524C9E9461AA468E6B871D5FAE9172DEB299ABA51CB7860B9E2F9AEEFBA19EE404F14A07B7E2C8840679B3A9C899494145B653EBF54322747E2E86F1A804A632291E7EED885F8FCBF18B4E811BC58AC59C2846BF375CDC5057B0E6E5D55E1FB492FCD0EB8B86FE60E886B6A168528BFCF93DF86864F7627CA422CDA077475396183F7EC2A0ED9014570A64682F70446BBE1C67B3C97BB54F8ED3B94E307478A1AB57859F7BD56823E6F7FD413849BCD2A9041C7EF601B4E723AF0BF8B4E0D125F5DC488B37CEE63B4397CA40F7BE04BA34927419AA3F54A0BDC60D239D4A0CF72861EA51C1407293982DFD81A81BDA8A63C43BF2742F3CA23624B0BF8D264C91FCAA3B088B24CF3AFC317CC11B0FCF6F82B95D85B96E3FCC187C3169F0C118718688D94FDA4EB6C6BE00340E46A07C321E7BDAB6F75234F958AFCA5CB7BA57DDC116F325715F7407E2797700160CFE9825DE14F1C67BD4961A1F10AF8B78578CFE681A08438971FB9F725766E9DC5892FDBF3A41CCBFACD61FC47A4AAC39831FA68937413C33711E91FAFA487B8778EDEC195F0B9A75F190286D75D9B7B161F224D325D5DC3C71D8BA9E1067C2A0B65883D6BDDE23D6D52EF53F070A5CF58C94A7B037ECC7E48C847191F2B4BA32B7D6DBAD9ED3A6BBDEAFFB3ABDFF6E6FF39CAFAC76BF999CEEFCE96A67FE1BF6EBD8F1FF00FF85E5" />
+					<Bitmap Name="Aliases.browser.pageShop.header.navUsd.linkLogIn" Data="61717A6970000000010000007606000078017DD47B4C53571C07F07BFBA6B72DAD82A263C81626425BDEE092191E8A0F5EA53C8481C4415C741B08A26CE3E51C6315210282834AC8DC16CD444C109D3AF18150B0303B87BC0A020203D4CD4CFCD365D9F2DDB94D4B48FFE036DF7BCEE9B9E793DFE9C9EDD6B8CF0494E50A21F74D244ED6D0943BE95154B875DE3258E126E451228D9ADA5B9F4C5FEEC8E6CEFFB45FF8EFB93DE2FFAA62250BFB378BDB43DEE467F2B9B4C30AC4D254941795DA79905E182DE6E0DE413E1A1318E813653843A24F7044A3D611DFC43BA27C87EC7990AB206369A15D8743539CD21D54C348118DD1120EBA72F938AD95A039594A2243939D57AF91E3549C1C293EE266B2966BC751CBADE1622EF4498CC5FA76F7CA5E6DAC1C492A71F3726FA717B57BD45AD7682917B7B305684890E06C8A14CBBDC2088969E7466191722D2FFAED55BC2D2A17BE66D746515941A86C4CB5969FCA9A022E25BC9B43CFB17B3413CB7C94878B99229C4992E03BAB5715235950B9F0A296D7B0BC4F53142DE4D252F6BB18259DBE647DC183F9181FE7321C96BCCA686646E1C071B5ADA7393457BE51ECBF3E5411BF8E44E22AF2B0CDB16D4D22A7D55217B1C68835F6A5002D990E4BFB7DC789FB9EED79D906D1A6E8CBBEB3897D21B025A9FF5D84EB7D6E31EB446EEC731D39DC27669B5526C078B908B7F21C50AB6150182136DA2CB67558C577C9B8E1F722B32F18E92429C44D316D41FA602412EF84FF2E52089C068A79AF2D7559ADC73A31CC3A06B55A065AA5A066B9C7F6B7E5BA56171803916B0CC20162EEFB2D145923BB90F5380E9B4BD5F50F8A04AFC7CA8496BA586BA282C1649514DD8552689482067B4F9BBDBEBAE2BE3FCA8C0128225EFE403872C662F0F15422328CD14F2FE689A74D25228C7C25C6F871061395524C9E9461AA468E6B871D5FAE9172DEB299ABA51CB7860B9E2F9AEEFBA19EE404F14A07B7E2C8840679B3A9C899494145B653EBF54322747E2E86F1A804A632291E7EED885F8FCBF18B4E811BC58AC59C2846BF375CDC5057B0E6E5D55E1FB492FCD0EB8B86FE60E886B6A168528BFCF93DF86864F7627CA422CDA077475396183F7EC2A0ED9014570A64682F70446BBE1C67B3C97BB54F8ED3B94E307478A1AB57859F7BD56823E6F7FD413849BCD2A9041C7EF601B4E723AF0BF8B4E0D125F5DC488B37CEE63B4397CA40F7BE04BA34927419AA3F54A0BDC60D239D4A0CF72861EA51C1407293982DFD81A81BDA8A63C43BF2742F3CA23624B0BF8D264C91FCAA3B088B24CF3AFC317CC11B0FCF6F82B95D85B96E3FCC187C3169F0C118718688D94FDA4EB6C6BE00340E46A07C321E7BDAB6F75234F958AFCA5CB7BA57DDC116F325715F7407E2797700160CFE9825DE14F1C67BD4961A1F10AF8B78578CFE681A08438971FB9F725766E9DC5892FDBF3A41CCBFACD61FC47A4AAC39831FA68937413C33711E91FAFA487B8778EDEC195F0B9A75F190286D75D9B7B161F224D325D5DC3C71D8BA9E1067C2A0B65883D6BDDE23D6D52EF53F070A5CF58C94A7B037ECC7E48C847191F2B4BA32B7D6DBAD9ED3A6BBDEAFFB3ABDFF6E6FF39CAFAC76BF999CEEFCE96A67FE1BF6EBD8F1FF00FF85E5" />
+					<Bitmap Name="Aliases.browser.pageShop3" Data="61717A6970000000010000007606000078017DD47B4C53571C07F07BFBA6B72DAD82A263C81626425BDEE092191E8A0F5EA53C8481C4415C741B08A26CE3E51C6315210282834AC8DC16CD444C109D3AF18150B0303B87BC0A020203D4CD4CFCD365D9F2DDB94D4B48FFE036DF7BCEE9B9E793DFE9C9EDD6B8CF0494E50A21F74D244ED6D0943BE95154B875DE3258E126E451228D9ADA5B9F4C5FEEC8E6CEFFB45FF8EFB93DE2FFAA62250BFB378BDB43DEE467F2B9B4C30AC4D254941795DA79905E182DE6E0DE413E1A1318E813653843A24F7044A3D611DFC43BA27C87EC7990AB206369A15D8743539CD21D54C348118DD1120EBA72F938AD95A039594A2243939D57AF91E3549C1C293EE266B2966BC751CBADE1622EF4498CC5FA76F7CA5E6DAC1C492A71F3726FA717B57BD45AD7682917B7B305684890E06C8A14CBBDC2088969E7466191722D2FFAED55BC2D2A17BE66D746515941A86C4CB5969FCA9A022E25BC9B43CFB17B3413CB7C94878B99229C4992E03BAB5715235950B9F0A296D7B0BC4F53142DE4D252F6BB18259DBE647DC183F9181FE7321C96BCCA686646E1C071B5ADA7393457BE51ECBF3E5411BF8E44E22AF2B0CDB16D4D22A7D55217B1C68835F6A5002D990E4BFB7DC789FB9EED79D906D1A6E8CBBEB3897D21B025A9FF5D84EB7D6E31EB446EEC731D39DC27669B5526C078B908B7F21C50AB6150182136DA2CB67558C577C9B8E1F722B32F18E92429C44D316D41FA602412EF84FF2E52089C068A79AF2D7559ADC73A31CC3A06B55A065AA5A066B9C7F6B7E5BA56171803916B0CC20162EEFB2D145923BB90F5380E9B4BD5F50F8A04AFC7CA8496BA586BA282C1649514DD8552689482067B4F9BBDBEBAE2BE3FCA8C0128225EFE403872C662F0F15422328CD14F2FE689A74D25228C7C25C6F871061395524C9E9461AA468E6B871D5FAE9172DEB299ABA51CB7860B9E2F9AEEFBA19EE404F14A07B7E2C8840679B3A9C899494145B653EBF54322747E2E86F1A804A632291E7EED885F8FCBF18B4E811BC58AC59C2846BF375CDC5057B0E6E5D55E1FB492FCD0EB8B86FE60E886B6A168528BFCF93DF86864F7627CA422CDA077475396183F7EC2A0ED9014570A64682F70446BBE1C67B3C97BB54F8ED3B94E307478A1AB57859F7BD56823E6F7FD413849BCD2A9041C7EF601B4E723AF0BF8B4E0D125F5DC488B37CEE63B4397CA40F7BE04BA34927419AA3F54A0BDC60D239D4A0CF72861EA51C1407293982DFD81A81BDA8A63C43BF2742F3CA23624B0BF8D264C91FCAA3B088B24CF3AFC317CC11B0FCF6F82B95D85B96E3FCC187C3169F0C118718688D94FDA4EB6C6BE00340E46A07C321E7BDAB6F75234F958AFCA5CB7BA57DDC116F325715F7407E2797700160CFE9825DE14F1C67BD4961A1F10AF8B78578CFE681A08438971FB9F725766E9DC5892FDBF3A41CCBFACD61FC47A4AAC39831FA68937413C33711E91FAFA487B8778EDEC195F0B9A75F190286D75D9B7B161F224D325D5DC3C71D8BA9E1067C2A0B65883D6BDDE23D6D52EF53F070A5CF58C94A7B037ECC7E48C847191F2B4BA32B7D6DBAD9ED3A6BBDEAFFB3ABDFF6E6FF39CAFAC76BF999CEEFCE96A67FE1BF6EBD8F1FF00FF85E5" />
+					<Bitmap Name="Aliases.browser.pageShop3.sectionContent" Data="61717A6970000000010000007606000078017DD47B4C53571C07F07BFBA6B72DAD82A263C81626425BDEE092191E8A0F5EA53C8481C4415C741B08A26CE3E51C6315210282834AC8DC16CD444C109D3AF18150B0303B87BC0A020203D4CD4CFCD365D9F2DDB94D4B48FFE036DF7BCEE9B9E793DFE9C9EDD6B8CF0494E50A21F74D244ED6D0943BE95154B875DE3258E126E451228D9ADA5B9F4C5FEEC8E6CEFFB45FF8EFB93DE2FFAA62250BFB378BDB43DEE467F2B9B4C30AC4D254941795DA79905E182DE6E0DE413E1A1318E813653843A24F7044A3D611DFC43BA27C87EC7990AB206369A15D8743539CD21D54C348118DD1120EBA72F938AD95A039594A2243939D57AF91E3549C1C293EE266B2966BC751CBADE1622EF4498CC5FA76F7CA5E6DAC1C492A71F3726FA717B57BD45AD7682917B7B305684890E06C8A14CBBDC2088969E7466191722D2FFAED55BC2D2A17BE66D746515941A86C4CB5969FCA9A022E25BC9B43CFB17B3413CB7C94878B99229C4992E03BAB5715235950B9F0A296D7B0BC4F53142DE4D252F6BB18259DBE647DC183F9181FE7321C96BCCA686646E1C071B5ADA7393457BE51ECBF3E5411BF8E44E22AF2B0CDB16D4D22A7D55217B1C68835F6A5002D990E4BFB7DC789FB9EED79D906D1A6E8CBBEB3897D21B025A9FF5D84EB7D6E31EB446EEC731D39DC27669B5526C078B908B7F21C50AB6150182136DA2CB67558C577C9B8E1F722B32F18E92429C44D316D41FA602412EF84FF2E52089C068A79AF2D7559ADC73A31CC3A06B55A065AA5A066B9C7F6B7E5BA56171803916B0CC20162EEFB2D145923BB90F5380E9B4BD5F50F8A04AFC7CA8496BA586BA282C1649514DD8552689482067B4F9BBDBEBAE2BE3FCA8C0128225EFE403872C662F0F15422328CD14F2FE689A74D25228C7C25C6F871061395524C9E9461AA468E6B871D5FAE9172DEB299ABA51CB7860B9E2F9AEEFBA19EE404F14A07B7E2C8840679B3A9C899494145B653EBF54322747E2E86F1A804A632291E7EED885F8FCBF18B4E811BC58AC59C2846BF375CDC5057B0E6E5D55E1FB492FCD0EB8B86FE60E886B6A168528BFCF93DF86864F7627CA422CDA077475396183F7EC2A0ED9014570A64682F70446BBE1C67B3C97BB54F8ED3B94E307478A1AB57859F7BD56823E6F7FD413849BCD2A9041C7EF601B4E723AF0BF8B4E0D125F5DC488B37CEE63B4397CA40F7BE04BA34927419AA3F54A0BDC60D239D4A0CF72861EA51C1407293982DFD81A81BDA8A63C43BF2742F3CA23624B0BF8D264C91FCAA3B088B24CF3AFC317CC11B0FCF6F82B95D85B96E3FCC187C3169F0C118718688D94FDA4EB6C6BE00340E46A07C321E7BDAB6F75234F958AFCA5CB7BA57DDC116F325715F7407E2797700160CFE9825DE14F1C67BD4961A1F10AF8B78578CFE681A08438971FB9F725766E9DC5892FDBF3A41CCBFACD61FC47A4AAC39831FA68937413C33711E91FAFA487B8778EDEC195F0B9A75F190286D75D9B7B161F224D325D5DC3C71D8BA9E1067C2A0B65883D6BDDE23D6D52EF53F070A5CF58C94A7B037ECC7E48C847191F2B4BA32B7D6DBAD9ED3A6BBDEAFFB3ABDFF6E6FF39CAFAC76BF999CEEFCE96A67FE1BF6EBD8F1FF00FF85E5" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+				<Data Comment="groups are good for organization!!" />
+			</Operation>
+			<Operation Type="{98EACF50-FA7B-4595-8EDC-4C0B21157A52}">
+				<Data Description="Launches the specified browser and opens the specified URL in it." BrowserName="edge">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="URL" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="https://bearstore-testsite.smartbear.com/" />
+						<Parameter Name="PageLoadWaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="227" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="94" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Maximizes the specified Window object." Action="Maximize">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop.header.navUsd.linkLogIn.textnodeLogIn;" />
+				</Data>
+			</Operation>
+			<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+				<Data LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+					<Root Type="1" Operator="0">
+						<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.browser.pageShop.header.navUsd.linkLogIn.ObjectLabel" />
+						<Right DefVarType="0" VarType="8" ValueType="6" ValueValue="Log in" />
+					</Root>
+				</Data>
+				<Children>
+					<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+						<Data GroupName="ifThenGroup-invalidCreds" />
+						<Children>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+											<Values IsEnum="True">
+												<Value Type="1" Value="0" Text="skNoShift" />
+												<Value Type="1" Value="8192" Text="skShift" />
+												<Value Type="1" Value="32768" Text="skAlt" />
+												<Value Type="1" Value="16384" Text="skCtrl" />
+											</Values>
+										</Parameter>
+									</Parameters>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3.sectionContent.textboxUsernameoremail;" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="testUserA" />
+									</Parameters>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3.sectionContent.textboxUsernameoremail;" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+											<Values IsEnum="True">
+												<Value Type="1" Value="0" Text="skNoShift" />
+												<Value Type="1" Value="8192" Text="skShift" />
+												<Value Type="1" Value="32768" Text="skAlt" />
+												<Value Type="1" Value="16384" Text="skCtrl" />
+											</Values>
+										</Parameter>
+									</Parameters>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3.sectionContent.passwordboxPassword;" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="Text" DefVarType="8" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="wrongPass" />
+									</Parameters>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3.sectionContent.passwordboxPassword;" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+											<Values IsEnum="True">
+												<Value Type="1" Value="0" Text="skNoShift" />
+												<Value Type="1" Value="8192" Text="skShift" />
+												<Value Type="1" Value="32768" Text="skAlt" />
+												<Value Type="1" Value="16384" Text="skCtrl" />
+											</Values>
+										</Parameter>
+									</Parameters>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3.sectionContent.labelRememberMe;" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3.sectionContent.buttonLogIn;" />
+								</Data>
+							</Operation>
+							<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+								<Data Description="Delays the test execution for the specified time period.">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="10000" />
+										<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+									</Parameters>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop;" />
+								</Data>
+							</Operation>
+							<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+								<Data Description="Posts an information message to the test log." MessageType="0">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="logging in w/invalid credentials" />
+										<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+										<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+											<Values IsEnum="True">
+												<Value Type="1" Value="100" Text="pmLowest" />
+												<Value Type="1" Value="200" Text="pmLower" />
+												<Value Type="1" Value="300" Text="pmNormal" />
+												<Value Type="1" Value="400" Text="pmHigher" />
+												<Value Type="1" Value="500" Text="pmHighest" />
+											</Values>
+										</Parameter>
+										<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+										<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+										<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
+								<Data>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3.sectionContent.panelLoginWasUnsuccessfulPlease;" />
+								</Data>
+								<Children>
+									<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+										<Data Description="Posts an information message to the test log." MessageType="0">
+											<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+												<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="invalid credentials" />
+												<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+												<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+													<Values IsEnum="True">
+														<Value Type="1" Value="100" Text="pmLowest" />
+														<Value Type="1" Value="200" Text="pmLower" />
+														<Value Type="1" Value="300" Text="pmNormal" />
+														<Value Type="1" Value="400" Text="pmHigher" />
+														<Value Type="1" Value="500" Text="pmHighest" />
+													</Values>
+												</Parameter>
+												<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+												<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+												<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+											</Parameters>
+										</Data>
+									</Operation>
+									<Operation Type="{6F092AB6-AD45-4F55-ADE1-9E63E2D69763}">
+										<Data LabelName="endOfTest">
+											<CommonData Disabled="True" />
+										</Data>
+									</Operation>
+								</Children>
+							</Operation>
+						</Children>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+				<Data LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+					<CommonData Disabled="True" />
+					<Root Type="1" Operator="0">
+						<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.browser.pageShop3.sectionContent.textnodeIAmAlreadyRegistered.contentText" />
+						<Right DefVarType="0" VarType="8" ValueType="6" ValueValue="I am already registered" />
+					</Root>
+				</Data>
+				<Children>
+					<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+						<Data GroupName="ifThenGroup2-validCreds" />
+						<Children>
+							<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+								<Data Description="Posts an information message to the test log." MessageType="0">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="inside seconf if/then statement" />
+										<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+										<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+											<Values IsEnum="True">
+												<Value Type="1" Value="100" Text="pmLowest" />
+												<Value Type="1" Value="200" Text="pmLower" />
+												<Value Type="1" Value="300" Text="pmNormal" />
+												<Value Type="1" Value="400" Text="pmHigher" />
+												<Value Type="1" Value="500" Text="pmHighest" />
+											</Values>
+										</Parameter>
+										<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+										<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+										<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+											<Values IsEnum="True">
+												<Value Type="1" Value="0" Text="skNoShift" />
+												<Value Type="1" Value="8192" Text="skShift" />
+												<Value Type="1" Value="32768" Text="skAlt" />
+												<Value Type="1" Value="16384" Text="skCtrl" />
+											</Values>
+										</Parameter>
+									</Parameters>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3.sectionContent.textboxUsernameoremail;" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="testUserA" />
+									</Parameters>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3.sectionContent.textboxUsernameoremail;" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+											<Values IsEnum="True">
+												<Value Type="1" Value="0" Text="skNoShift" />
+												<Value Type="1" Value="8192" Text="skShift" />
+												<Value Type="1" Value="32768" Text="skAlt" />
+												<Value Type="1" Value="16384" Text="skCtrl" />
+											</Values>
+										</Parameter>
+									</Parameters>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3.sectionContent.passwordboxPassword;" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="Text" DefVarType="8" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="rightPass" />
+									</Parameters>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3.sectionContent.passwordboxPassword;" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+											<Values IsEnum="True">
+												<Value Type="1" Value="0" Text="skNoShift" />
+												<Value Type="1" Value="8192" Text="skShift" />
+												<Value Type="1" Value="32768" Text="skAlt" />
+												<Value Type="1" Value="16384" Text="skCtrl" />
+											</Values>
+										</Parameter>
+									</Parameters>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3.sectionContent.labelRememberMe;" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop3.sectionContent.buttonLogIn;" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+									</Parameters>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageShop;" />
+								</Data>
+							</Operation>
+							<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+								<Data Description="Posts an information message to the test log." MessageType="0">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="logged in as testUserA" />
+										<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+										<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+											<Values IsEnum="True">
+												<Value Type="1" Value="100" Text="pmLowest" />
+												<Value Type="1" Value="200" Text="pmLower" />
+												<Value Type="1" Value="300" Text="pmNormal" />
+												<Value Type="1" Value="400" Text="pmHigher" />
+												<Value Type="1" Value="500" Text="pmHighest" />
+											</Values>
+										</Parameter>
+										<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+										<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+										<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+								<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.pageShop.header.navUsd.linkTestusera" />
+										<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+										<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+										<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="testUserA" />
+										<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+									</Parameters>
+								</Data>
+							</Operation>
+						</Children>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{92F2155F-410E-4D93-B7B3-684BA934382B}">
+				<Data />
+				<Children>
+					<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+						<Data Description="Posts an information message to the test log." MessageType="0">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="unable to login - btn not found" />
+								<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+								<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+									<Values IsEnum="True">
+										<Value Type="1" Value="100" Text="pmLowest" />
+										<Value Type="1" Value="200" Text="pmLower" />
+										<Value Type="1" Value="300" Text="pmNormal" />
+										<Value Type="1" Value="400" Text="pmHigher" />
+										<Value Type="1" Value="500" Text="pmHighest" />
+									</Values>
+								</Parameter>
+								<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{6F092AB6-AD45-4F55-ADE1-9E63E2D69763}">
+						<Data LabelName="endOfTest" />
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{F503A89E-FD8E-4922-B6E0-A5976461A68A}">
+				<Data Name="endOfTest" />
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="4" Key="{46F4F7BB-6340-4023-99D8-39ACD773C84D}">
+		<Items>
+			<Variable Name="wrongPass" Type="Password" Local="False">
+				<DefValue StrValue="380039003600310036003300440030004600340044003800420033004600350031003400390039003500460039003700320032004600460046004200370041003800450031004300440032003100380038004400460034003100440033004300" />
+			</Variable>
+			<Variable Name="rightPass" Type="Password" Local="False">
+				<DefValue StrValue="380039003600310036003300440030004600340044003800420033004600310039003400390046004400460039003100320032004600390046004200370043003800450031004100440032003100380038004400340032003100440032004500" />
+			</Variable>
+		</Items>
+	</Variables>
+	<Parameters Key="{5622507C-45C8-4435-8FA3-6169A74FC35E}" />
+</Root>

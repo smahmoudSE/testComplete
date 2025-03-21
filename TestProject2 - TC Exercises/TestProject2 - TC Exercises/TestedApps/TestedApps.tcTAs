@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{40C11536-B966-404F-8994-56F055170512}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{4CDC1D0E-84A1-47EE-B0C1-71CAC23C7EED}">
+			<config nodeName="Orders" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Users\Public\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Users\Public\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Users\Public\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" />
+					<param name="Simple" fileName="Orders.exe" filePath="C:\Users\Public\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release\" parameters="" workFolder="C:\Users\Public\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{31062220-EF2D-4D23-A2A4-B979826CFAD3}">
+			<config nodeName="Orders1" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Users\sarah.mahmoud\OneDrive - SmartBear Software, Inc\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Users\sarah.mahmoud\OneDrive - SmartBear Software, Inc\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Users\sarah.mahmoud\OneDrive - SmartBear Software, Inc\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" />
+					<param name="Simple" fileName="Orders.exe" filePath="C:\Users\sarah.mahmoud\OneDrive - SmartBear Software, Inc\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release\" parameters="" workFolder="C:\Users\sarah.mahmoud\OneDrive - SmartBear Software, Inc\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{AE54924B-1FD6-4C9E-A61A-FAC8DF5773E9}">
+	<children>
+		<child name="TC Exercises Project" key="{5434670A-D3BC-4436-BE8B-AB454B28E024}" path="TestProject2 - TC Exercises\TC Exercises Project.mds" />
+	</children>
+	<testItems key="{E723F55E-D820-4D27-8674-B3F403954FE8}">
+		<children>
+			<testItem key="{5434670A-D3BC-4436-BE8B-AB454B28E024}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{DC5DB4E0-2361-4908-9630-B0C90500C897}">
+		<data Version="4">
+			<Items>
+				<Variable Name="bearStoreURL" Type="String" Local="True">
+					<DefValue StrValue="https://bearstore-testsite.smartbear.com/" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{4EF7BB36-EF03-4C2D-99DF-AF94D13D6D7E}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

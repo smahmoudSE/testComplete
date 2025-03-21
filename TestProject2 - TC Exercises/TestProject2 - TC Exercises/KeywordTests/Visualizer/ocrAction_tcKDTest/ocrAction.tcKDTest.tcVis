@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{BA645BB9-AE24-467B-87B1-16A5CD35B06C}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45702.7320688773" objectName="Aliases.browser.BrowserWindow.Chrome_RenderWidgetHostHWND" objectLeft="5" objectTop="92" objectRight="1915" objectBottom="1135" clickPointX="616" clickPointY="268" imageFileName="tcvi6912250193120.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45702.7320711806" objectName="Aliases.browser.BrowserWindow" objectLeft="-9" objectTop="-9" objectRight="1929" objectBottom="1149" clickPointX="-1" clickPointY="-1" imageFileName="visImage1.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45687.7976041667" objectName="Aliases.browser.pageShop.header.navBooks.linkBooks.textnodeBooks" objectLeft="407" objectTop="217" objectRight="451" objectBottom="238" clickPointX="426" clickPointY="218" imageFileName="tcvi6914281193124.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45702.7321007407" objectName="Aliases.browser.pageShopBooks.sectionContent.articleTheCarBookTheGreatHistory.link.imageCatalog" objectLeft="1283" objectTop="117" objectRight="1337" objectBottom="132" clickPointX="1310" clickPointY="124" imageFileName="visImage3.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

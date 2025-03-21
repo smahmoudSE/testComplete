@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{4D378959-B4F8-4A03-BB87-3FB54D22E9AB}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45702.7287160648" objectName="Aliases.browser.BrowserWindow" objectLeft="-9" objectTop="-9" objectRight="1929" objectBottom="1149" clickPointX="208" clickPointY="84" imageFileName="tcvi320085078414160.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45694.857461713" objectName="Aliases.browser.BrowserWindow" objectLeft="-9" objectTop="-9" objectRight="1929" objectBottom="1149" clickPointX="-1" clickPointY="-1" imageFileName="visImage1.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45702.7288410995" objectName="Aliases.browser.pageShop.header.navBooks.linkGamingAccessories.textnodeGamingAccessories" objectLeft="618" objectTop="335" objectRight="772" objectBottom="358" clickPointX="695" clickPointY="346" imageFileName="tcvi320088984414161.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

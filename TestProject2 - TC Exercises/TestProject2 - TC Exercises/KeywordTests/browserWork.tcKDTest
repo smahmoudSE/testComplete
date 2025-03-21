@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{7ED2D195-519B-47E1-8E6B-740459CDC0C4}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+				<Data Comment="this is disabled because the loop does the same thing" />
+			</Operation>
+			<Operation Type="{73F99A92-A52F-4C8A-AEA4-1409AF65ACD1}">
+				<Data Description="Launches the specified virtual browser and opens the specified URL in it." BrowserName="iPhone 6/7/8">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="URL" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="https://bearstore-testsite.smartbear.com/" />
+						<Parameter Name="PageLoadWaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+				<Data Comment="browser loops thorugh 2 different devices" />
+			</Operation>
+			<Operation Type="{A55111E7-7644-4DCD-8388-C21112181210}">
+				<Data Description="Iterates through the specified virtual browsers.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="URL" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="https://bearstore-testsite.smartbear.com/" />
+						<Parameter Name="PageLoadWaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<Item>
+						<BrowserItem Name="Apple iPad" />
+						<BrowserItem Name="Google Pixel 2" />
+					</Item>
+				</Data>
+				<Children>
+					<Operation Type="{9E7D3226-E25B-40E4-B271-EF1ED67A4E1C}">
+						<Data Description="Sets the specified orientation for the current virtual browser." Orientation="0" />
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow;" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{9CBC3809-DBDC-4FBB-A710-BF9EF839D3E9}" />
+</Root>

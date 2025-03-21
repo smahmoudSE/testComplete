@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="imageSmartBearStoreLogo" key="{FB8941D1-911C-4A54-93E6-38173D77FA85}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="imageSmartBearStoreLogo" ID="{FB8941D1-911C-4A54-93E6-38173D77FA85}" FileName="Regions\imageSmartBearStoreLogo.png" Update="False" />
+		</child>
+		<child name="textnodeWeFocusOnYourOnePriority" key="{728157AE-ECC3-48C7-BDF7-48BAC6C4D9B8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="textnodeWeFocusOnYourOnePriority" ID="{728157AE-ECC3-48C7-BDF7-48BAC6C4D9B8}" FileName="Regions\textnodeWeFocusOnYourOnePriority.png" Update="False" />
+		</child>
+	</children>
+</Root>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="contactUs_Simple" key="{2A77421B-6B94-4CC4-944B-7772F650755A}" path="contactUs_Simple.tcKDTest" />
+		<child name="addToCart" key="{5E1206C5-AACD-49D1-A847-E84E4E16491C}" path="addToCart.tcKDTest" />
+		<child name="logout" key="{5F946CC4-8268-4780-880B-E2BF53ABFAB1}" path="logout.tcKDTest" />
+		<child name="login" key="{697858F4-24FC-485D-906F-9731B2A0A907}" path="login.tcKDTest" />
+	</children>
+</Root>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="projects">
+			<Node name="project0">
+				<Node name="tests">
+					<Node name="test9">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="groupExample"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test20">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="throwAway"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test6">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="dbwork"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test1">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="ifThen"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test2">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="browserWork"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test8">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="groupCheckFindObj"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test17">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="rTestSCRoutineSnippet"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test7">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="ddLoop"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test24">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="whileForLoops"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test12">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="ifThenStop"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test13">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="imgBasedAction"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test3">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="callObjMethod"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test16">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="ocrAction"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test14">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="logs"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test11">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="ifBrowsersnSS"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test4">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="checkpoints"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test15">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="menuProcessAction"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test10">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="hoverOnScreenAction_2"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test19">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="testedApp"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test23">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="whatsNewPage"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test5">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="contactUs"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test22">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="twoKWTests"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test21">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="tryCatchFinally"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+					<Node name="test0">
+						<Node name="warnings">
+							<Node name="warning1">
+								<Prp name="msg" type="S" value="The action may be performed incorrectly, because the control is not visible."/>
+							</Node>
+							<Node name="warning0">
+								<Prp name="msg" type="S" value="The browser is already running."/>
+							</Node>
+						</Node>
+						<Node name="errors">
+							<Node name="error0">
+								<Prp name="msg" type="S" value="The operation was interrupted by the user."/>
+							</Node>
+							<Node name="error2">
+								<Prp name="msg" type="S" value="The execution process was interrupted."/>
+							</Node>
+							<Node name="error1">
+								<Prp name="msg" type="S" value="The test run has stopped because your test project is configured to stop on errors."/>
+							</Node>
+						</Node>
+						<Prp name="duration" type="I" value="41825"/>
+						<Prp name="name" type="S" value="hoverOnScreenAction"/>
+						<Prp name="durationwithoutchildren" type="I" value="41825"/>
+						<Prp name="status" type="I" value="2"/>
+						<Prp name="starttime" type="D" value="45702.5196402315"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA4AEUAMQA2ADcAQQBGADYALQBEAEYAOQAwAC0ANABEAEIARgAtADkAQgBDADEALQA5ADEAQwAxADcAMQBFADEAMQA4ADMARQB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+					</Node>
+					<Node name="test18">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="name" type="S" value="scriptWork"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="starttime" type="D" value="45702.520124375"/>
+					</Node>
+				</Node>
+				<Prp name="duration" type="I" value="41825"/>
+				<Prp name="loadtests" type="I" value="0"/>
+				<Prp name="name" type="S" value="TC Exercises Project"/>
+				<Prp name="incompletedtests" type="I" value="24"/>
+				<Prp name="failedtests" type="I" value="1"/>
+				<Prp name="warningtests" type="I" value="0"/>
+				<Prp name="starttime" type="D" value="45702.5196402315"/>
+			</Node>
+		</Node>
+		<Prp name="successtestwithretries" type="I" value="0"/>
+		<Prp name="failedtests" type="I" value="1"/>
+		<Prp name="user" type="S" value="sarah.mahmoud"/>
+		<Prp name="tests" type="I" value="25"/>
+		<Prp name="stop" type="D" value="45702.5201293634"/>
+		<Prp name="name" type="S" value="TestProject2 - TC Exercises"/>
+		<Prp name="warningtests" type="I" value="0"/>
+		<Prp name="testname" type="S" value="TC Exercises Project"/>
+		<Prp name="host" type="S" value="SB-MA-7K9QR74"/>
+		<Prp name="executionstatus" type="I" value="2"/>
+		<Prp name="warningtestwithretries" type="I" value="0"/>
+		<Prp name="key" type="S" value="{5BF4B3C5-6A35-4108-878A-F80E673D1107}"/>
+		<Prp name="starttime" type="D" value="45702.5196401389"/>
+		<Prp name="loadtests" type="I" value="0"/>
+		<Prp name="incompletedtests" type="I" value="24"/>
+	</Node>
+</Nodes>

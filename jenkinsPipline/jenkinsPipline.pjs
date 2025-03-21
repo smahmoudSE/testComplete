@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{C155A05C-2A34-4E69-AC7D-DB9B809624E0}">
+	<children>
+		<child name="webAppTests" key="{01714593-B5E0-4BC6-BDE3-6799C9AF5F5B}" path="webAppTest\webAppTests.mds" />
+	</children>
+	<testItems key="{76D62F79-391C-4384-AC69-ADEC8DA7E1B2}">
+		<children>
+			<testItem key="{01714593-B5E0-4BC6-BDE3-6799C9AF5F5B}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{DF48F7F8-5A06-4CEB-9BAD-B2150DA0ECEE}" />
+	<analysis key="{76BC5757-32BF-4FB3-BF00-DAAEA9129381}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

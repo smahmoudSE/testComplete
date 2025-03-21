@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="SmartStore_python" key="{4B89E985-43CA-4E3D-9106-819C004691EF}" path="SmartStore_python.py" />
+	</children>
+</Root>

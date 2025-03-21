@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{31EA69E0-5C28-48B7-9906-05BDEF00F7B2}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45687.7910713889" objectName="Aliases.explorer.wndWorkerW.SHELLDLL_DefView.FolderView" objectLeft="0" objectTop="0" objectRight="3840" objectBottom="1080" clickPointX="38" clickPointY="50" imageFileName="tcvi68653343125480.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45687.7930010185" objectName="NameMapping.Sys" objectLeft="0" objectTop="0" objectRight="100" objectBottom="80" clickPointX="50" clickPointY="40" imageFileName="visImage0.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45686.6119142361" objectName="Aliases.explorer.wndCabinetWClass.ShellTabWindowClass.DUIViewWndClassName.Explorer_Pane.CtrlNotifySink.ShellView.Items_View.UIAObject(&quot;AM_15_688&quot;).UIAObject(&quot;Original_Location&quot;)" objectLeft="468" objectTop="463" objectRight="768" objectBottom="482" clickPointX="-1" clickPointY="-1" imageFileName="visImage1.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45686.6076967593" objectName="Aliases.explorer.wndWorkerW.SHELLDLL_DefView.FolderView" objectLeft="0" objectTop="0" objectRight="3840" objectBottom="1080" clickPointX="962" clickPointY="53" imageFileName="tcvi68676000125483.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

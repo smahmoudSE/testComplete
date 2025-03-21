@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="dataflowNoVisualCheck" key="{09756FF1-3F63-43A1-917D-FF608A4F605F}" path="dataflowNoVisualCheck.tcKDTest" />
+		<child name="NoDFwithVisualCheck" key="{E2C43440-79B9-4B0A-A940-23727A123BD4}" path="NoDFwithVisualCheck.tcKDTest" />
+		<child name="whatsNewpage_CHROME" key="{5D31E3B9-2193-4949-961A-1BEEF9011B9F}" path="whatsNewpage_CHROME.tcKDTest" />
+		<child name="dbTest" key="{144955A5-F523-4ABD-9845-7631159BD42E}" path="dbTest.tcKDTest" />
+		<child name="varTest" key="{C4462125-5B16-4B61-8F09-B7D6275D1DDA}" path="varTest.tcKDTest" />
+		<child name="RunningMultipleTests" key="{24A6076F-C719-4193-AFF6-BAA78DFF3DF4}" path="RunningMultipleTests.tcKDTest" />
+		<child name="whatsNewPage_EDGE" key="{61FAAFFF-1780-4F30-AFDA-2C5B57C66206}" path="whatsNewPage_EDGE.tcKDTest" />
+		<child name="paramTest" key="{E3E9DFA6-F6DB-4D55-9F77-08411DACA015}" path="paramTest.tcKDTest" />
+	</children>
+</Root>

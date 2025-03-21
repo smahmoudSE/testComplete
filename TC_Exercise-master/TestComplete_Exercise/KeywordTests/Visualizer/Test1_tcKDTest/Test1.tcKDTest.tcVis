@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{E85C49C7-70C9-4CD3-9773-E675AB35D7A5}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45713.8251041667" objectName="Aliases.browser.BrowserWindow.Chrome_RenderWidgetHostHWND" objectLeft="0" objectTop="121" objectRight="1920" objectBottom="1032" clickPointX="848" clickPointY="151" imageFileName="tcvi177782671192685.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45713.8251157407" objectName="Aliases.browser.pageSmartbearCom.form.headerPLtHeader.linkTestcomplete.textnodeTestcomplete" objectLeft="681" objectTop="267" objectRight="786" objectBottom="283" clickPointX="747" clickPointY="281" imageFileName="tcvi177783796192688.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45713.825162037" objectName="Aliases.browser.pageSmartbearComProductTestcompl.form.headerPLtHeader.textnodeResources.linkResources" objectLeft="1206" objectTop="186" objectRight="1347" objectBottom="251" clickPointX="1264" clickPointY="218" imageFileName="tcvi177787781192689.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45713.8252083333" objectName="Aliases.browser.pageTestcompleteSmartbearSoftwar.form.sectionTestcompleteResources.linkWhatSNew.imageNewsAnnouncementsResourcesS" objectLeft="307" objectTop="486" objectRight="397" objectBottom="576" clickPointX="343" clickPointY="541" imageFileName="tcvi1777916251926811.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{AEFFB4AF-AC5B-440A-A8EE-9F4E953347DF}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
+				<Data Description="Runs a test from the project." TestName="paramTest" FullName="KeywordTests - paramTest" Path="KeywordTests|paramTest">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="name" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="sarah" />
+						<Parameter Name="email" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="sarah123@smrtbr.com" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
+				<Data Description="Runs a test from the project." TestName="whatsNewPage_EDGE" FullName="KeywordTests - whatsNewPage_EDGE" Path="KeywordTests|whatsNewPage_EDGE" />
+			</Operation>
+			<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
+				<Data Description="Runs a test from the project." TestName="varTest" FullName="KeywordTests - varTest" Path="KeywordTests|varTest" />
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{9713CFD7-6AE3-4F4A-A1DC-A030B4C5CA87}" />
+</Root>

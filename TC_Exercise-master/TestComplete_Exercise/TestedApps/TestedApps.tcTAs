@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{E52E11D4-2A96-4938-819F-2B8B7437E381}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{B13DEC79-A9C8-4E87-AB56-3F11763814E0}">
+			<config nodeName="Orders" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Users\daniel.lagomarsino\OneDrive - SmartBear Software, Inc\Desktop\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Users\daniel.lagomarsino\OneDrive - SmartBear Software, Inc\Desktop\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Users\daniel.lagomarsino\OneDrive - SmartBear Software, Inc\Desktop\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" />
+					<param name="Simple" fileName="Orders.exe" filePath="C:\Users\daniel.lagomarsino\OneDrive - SmartBear Software, Inc\Desktop\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release\" parameters="" workFolder="C:\Users\daniel.lagomarsino\OneDrive - SmartBear Software, Inc\Desktop\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{8861A91E-EB5E-4AF5-8368-0BD421FE7EBD}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="ImageSet2" />
+	<testData />
+	<data>
+		<item caption="rBin130" moniker="{FE57F045-E759-4497-BD30-AB67F8DAB74E}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\rBin130.png" initialHash="00000000" selectionLeft="0" selectionTop="0" selectionWidth="100" selectionHeight="80" initialLeft="0" initialTop="0" initialWidth="100" initialHeight="80" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+	</data>
+</Root>

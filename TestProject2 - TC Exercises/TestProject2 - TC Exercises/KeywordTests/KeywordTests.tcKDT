@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="whatsNewPage" key="{85273EB2-D261-4725-83FD-7FC3F566DCAD}" path="whatsNewPage.tcKDTest" />
+		<child name="contactUs" key="{C1B57123-B131-4D61-AC96-D4B63F35176F}" path="contactUs.tcKDTest" />
+		<child name="hoverOnScreenAction" key="{4D378959-B4F8-4A03-BB87-3FB54D22E9AB}" path="hoverOnScreenAction.tcKDTest" />
+		<child name="twoKWTests" key="{49E8E79C-9E82-47B7-A956-87A00A6B01D8}" path="twoKWTests.tcKDTest" />
+		<child name="ifThenStop" key="{3192F6AD-8E78-444D-864D-66625EA0D68A}" path="ifThenStop.tcKDTest" />
+		<child name="ddLoop" key="{DB379305-E265-4CD3-81EC-2A1F1C1D5FE7}" path="ddLoop.tcKDTest" />
+		<child name="imgBasedAction" key="{31EA69E0-5C28-48B7-9906-05BDEF00F7B2}" path="imgBasedAction.tcKDTest" />
+		<child name="ocrAction" key="{BA645BB9-AE24-467B-87B1-16A5CD35B06C}" path="ocrAction.tcKDTest" />
+		<child name="scriptWork" key="{DA22B95B-FF31-4433-9642-D88924921896}" path="scriptWork.tcKDTest" />
+		<child name="dbwork" key="{F1562057-4554-46A8-9F90-9176BE472D8A}" path="dbwork.tcKDTest" />
+		<child name="throwAway" key="{0BD20F7D-ED5A-4F75-9E03-54383457C4AE}" path="throwAway.tcKDTest" />
+		<child name="groupExample" key="{AC8013FC-6138-435B-B1C7-7B8F27D8ADF9}" path="groupExample.tcKDTest" />
+		<child name="rTestSCRoutineSnippet" key="{6D4A801C-4646-4338-BBC6-4A6F1385A7A5}" path="rTestSCRoutineSnippet.tcKDTest" />
+		<child name="testedApp" key="{A4630E2C-CA02-4CFE-997C-69BB0A290305}" path="testedApp.tcKDTest" />
+		<child name="whileForLoops" key="{D770CEE2-D479-47BC-A070-82031F587459}" path="whileForLoops.tcKDTest" />
+		<child name="ifBrowsersnSS" key="{BCD0CAB8-8A07-4E11-86D1-B4A236A6FDD6}" path="ifBrowsersnSS.tcKDTest" />
+		<child name="tryCatchFinally" key="{2F50F7B4-3F8B-478D-8872-5B929C931436}" path="tryCatchFinally.tcKDTest" />
+		<child name="menuProcessAction" key="{4E0FDD71-122D-4787-ACE7-6BF7A41B0F38}" path="menuProcessAction.tcKDTest" />
+		<child name="callObjMethod" key="{46C1FFAB-FC07-46FD-B69E-D915BCEBB38D}" path="callObjMethod.tcKDTest" />
+		<child name="groupCheckFindObj" key="{2A8D1E3E-D3B7-4492-98FE-081D22057D8C}" path="groupCheckFindObj.tcKDTest" />
+		<child name="logs" key="{E7D131B7-941C-4F57-BEDF-B9890178D9EE}" path="logs.tcKDTest" />
+		<child name="browserWork" key="{88A95FAB-C2DE-436E-B32B-CDA8CC780877}" path="browserWork.tcKDTest" />
+		<child name="checkpoints" key="{1A099F85-BD32-4706-8AEE-515D46350E46}" path="checkpoints.tcKDTest" />
+	</children>
+</Root>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{C67DD3AD-EDD1-4F2B-B8D0-D93D373AB6CF}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{D95A0934-BE78-45D6-B254-2098596D2A11}">
+				<Data Description="Opens the specified URL in a running instance of the specified browser." BrowserName="chrome">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="URL" DefVarType="8" VarType="8" ValueType="6" ValueValue="https://bearstore-testsite.smartbear.com/" />
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{94838C49-976F-4128-8B05-4E7C3E9C579D}">
+				<Data VariableType="4" VariableName="VarData">
+					<Records FromBegin="True" ToEnd="False" StartRecord="1" StopIndex="8" />
+				</Data>
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Maximizes the specified Window object." Action="Maximize">
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.BrowserWindow" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; link." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageShop.header.navUsd.navContactUs.linkContactUs" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageShopContactUs" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageShopContactUs.sectionContent.formYourName.textboxYourName" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="VarData" ColumnName="Name" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageShopContactUs.sectionContent.formYourName.textboxYourName" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageShopContactUs.sectionContent.formYourName.emailinputYourEmail" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="VarData" ColumnName="email" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageShopContactUs.sectionContent.formYourName.emailinputYourEmail" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageShopContactUs.sectionContent.formYourName.textareaEnquiry" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Keys" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="VarData" ColumnName="Enguiry" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageShopContactUs.sectionContent.formYourName.textareaEnquiry" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageShopContactUs.sectionContent.formYourName.buttonSendEmail" />
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.pageShopContactUs.FindElement(&quot;//div[contains(text(), &apos;Your enquiry has been successfully sent to the store owner.&apos;)]&quot;)" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="Your enquiry has been successfully sent to the store " />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.BrowserWindow" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="4" Key="{3B2E4C84-0FE9-4C79-8057-050E7A29F2C9}">
+		<Items>
+			<Variable Name="VarData" Type="Table" Local="False">
+				<DefValue RowCount="25" ColumnCount="3">
+					<Columns ColumnName0="Name" ColumnName1="email" ColumnName2="Enguiry" />
+					<Row No="0" Cell0="Chancellor Gilbert" Cell1="fernandez@nascetur.edu" Cell2="1 Hedley Hart lives in Modesto" />
+					<Row No="1" Cell0="Joseph Frank" Cell1="carey@magna.us" Cell2="2 Jack Leach lives in Lawton" />
+					<Row No="2" Cell0="Hasad Mcknight" Cell1="flores@ut.org" Cell2="3 Montana Cotton lives in Sturgis" />
+					<Row No="3" Cell0="Venus Harmon" Cell1="mejia@felis.net" Cell2="4 Ivor Stephenson lives in Rawlins" />
+					<Row No="4" Cell0="Felix Chen" Cell1="harmon@donec.com" Cell2="5 Zachery Velazquez lives in Jefferson City" />
+					<Row No="5" Cell0="Veda Valenzuela" Cell1="gross@ut.org" Cell2="6 Quinlan Hernandez lives in Batavia" />
+					<Row No="6" Cell0="Dean Wiley" Cell1="cline@proin.net" Cell2="7 Mary Barnes lives in Scranton" />
+					<Row No="7" Cell0="Simone Cleveland" Cell1="pierce@mus.edu" Cell2="8 Jennifer Mayo lives in San Jose" />
+					<Row No="8" Cell0="Reece Vaughan" Cell1="acosta@quam.edu" Cell2="9 Alec Small lives in Valdez" />
+					<Row No="9" Cell0="Elvis Ellis" Cell1="mcdowell@senectus.us" Cell2="10 Brady Pollard lives in Lynwood" />
+					<Row No="10" Cell0="Cora Morrow" Cell1="zamora@aliquet.com" Cell2="11 Phoebe House lives in Westfield" />
+					<Row No="11" Cell0="Tatum Buckley" Cell1="farmer@suspendisse.us" Cell2="12 Cade Mcconnell lives in Shamokin" />
+					<Row No="12" Cell0="Logan Shields" Cell1="velazquez@primis.edu" Cell2="13 Lenore Finch lives in Frederiksted" />
+					<Row No="13" Cell0="Shoshana Tyler" Cell1="sanders@semper.us" Cell2="14 Paki Massey lives in Cape Girardeau" />
+					<Row No="14" Cell0="Cade Sherman" Cell1="barnett@nunc.org" Cell2="15 Brielle Whitney lives in Seward" />
+					<Row No="15" Cell0="Gary Glenn" Cell1="sharp@malesuada.edu" Cell2="16 Xenos Pope lives in Scottsdale" />
+					<Row No="16" Cell0="Gregory Patterson" Cell1="harrison@nunc.net" Cell2="17 Linda Frederick lives in Marshall" />
+					<Row No="17" Cell0="Bradley Vega" Cell1="marks@eget.us" Cell2="18 Odysseus Cervantes lives in Bend" />
+					<Row No="18" Cell0="Lionel Harding" Cell1="oneil@in.edu" Cell2="19 Micah Preston lives in Mequon" />
+					<Row No="19" Cell0="Norman Thornton" Cell1="goff@ornare.org" Cell2="20 Brielle Santiago lives in Shawnee" />
+					<Row No="20" Cell0="Tatiana Bullock" Cell1="williams@natoque.us" Cell2="21 Cassandra Leblanc lives in Ithaca" />
+					<Row No="21" Cell0="Karleigh Saunders" Cell1="frederick@ultricies.gov" Cell2="22 Hu Hutchinson lives in Fitchburg" />
+					<Row No="22" Cell0="Ursa Reese" Cell1="adams@quam.edu" Cell2="23 Eugenia Fisher lives in Kearns" />
+					<Row No="23" Cell0="Lael Dale" Cell1="mcgowan@mollis.org" Cell2="24 Hedwig Melton lives in Agat" />
+					<Row No="24" Cell0="Preston Santos" Cell1="wolf@augue.org" Cell2="25 Hashim Bradley lives in Sheboygan" />
+				</DefValue>
+			</Variable>
+		</Items>
+	</Variables>
+	<Parameters Key="{DA49988F-A549-4823-A17D-82025A239390}" />
+</Root>

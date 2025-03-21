@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Table Name="DBTable2">
+		<Source ConnectionString="Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=contactUsDB;Data Source=SB-MA-7K9QR74\SQLEXPRESS" Object="Table" DataObjectContent="contactUsData&#13;&#10;dbo">
+			<DataExtraction Type="" />
+		</Source>
+		<Columns>
+			<Column>contactName</Column>
+			<Column>contactEmail</Column>
+			<Column>contactInquiry</Column>
+		</Columns>
+		<Rows>
+			<Row>
+				<Cell Type="String">Tommy Crosby&#13;&#10;</Cell>
+				<Cell Type="String">tc@wit.edu</Cell>
+				<Cell Type="String">What is my tracking number</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">EJ Miller&#13;&#10;</Cell>
+				<Cell Type="String">elijah@verizon.com</Cell>
+				<Cell Type="String">Order number invalid</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Dean Waterhouse&#13;&#10;</Cell>
+				<Cell Type="String">dw122@yahoo.net</Cell>
+				<Cell Type="String">Return policy</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Sam Winchester&#13;&#10;</Cell>
+				<Cell Type="String">SW7@simmons.org</Cell>
+				<Cell Type="String">Help needed</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Adam O&apos;Malley&#13;&#10;</Cell>
+				<Cell Type="String">dan@smrt.gov</Cell>
+				<Cell Type="String">Phishing email?</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Karen Anderson&#13;&#10;</Cell>
+				<Cell Type="String">kaa9@smartbear.com</Cell>
+				<Cell Type="String">Need to change Address ASAP!!</Cell>
+			</Row>
+		</Rows>
+	</Table>
+</Root>

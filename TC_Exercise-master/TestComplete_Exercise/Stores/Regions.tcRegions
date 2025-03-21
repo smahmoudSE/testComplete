@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="pageShopCheckout" key="{2649CAEB-3A8C-48CC-A09F-B466FDF90FAB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="pageShopCheckout" ID="{2649CAEB-3A8C-48CC-A09F-B466FDF90FAB}" FileName="Regions\pageShopCheckout.png" Update="False" />
+		</child>
+	</children>
+</Root>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{5E1206C5-AACD-49D1-A847-E84E4E16491C}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45737.6447453704" objectName="Aliases.browser.pageShop.sectionContent.articleSunglasses.linkShowProductsInCategory.imageShowProductsInCategory" objectLeft="789" objectTop="675" objectRight="929" objectBottom="774" clickPointX="849" clickPointY="733" imageFileName="tcvi35543265645441.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45737.6448148148" objectName="Aliases.browser.pageSunglasses.sectionContent.linkRadarEvPrizmSportsSunglasses.imageRadarEvPrizmJpg" objectLeft="1108" objectTop="456" objectRight="1282" objectBottom="630" clickPointX="1201" clickPointY="539" imageFileName="tcvi35543884345445.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45737.6449768519" objectName="Aliases.browser.pageShopSunglasses.sectionContent.articleRadarEvPrizmSportsSunglas.asideRadarEvPrizmSportsSunglasse.button" objectLeft="1166" objectTop="562" objectRight="1192" objectBottom="611" clickPointX="1169" clickPointY="585" imageFileName="tcvi35545353145448.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45737.645" objectName="Aliases.browser.pageShopSunglasses.linkAddToCart" objectLeft="1197" objectTop="561" objectRight="1492" objectBottom="612" clickPointX="1283" clickPointY="573" imageFileName="tcvi35545485945449.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

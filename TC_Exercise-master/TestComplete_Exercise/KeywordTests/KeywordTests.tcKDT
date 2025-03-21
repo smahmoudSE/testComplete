@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="Web">
+			<child name="Contact_Us" key="{FC04EACB-3C57-41CF-998B-DD9ADE36384D}" path="Contact_Us.tcKDTest" />
+			<child name="LogIn" key="{FD95267B-AFF9-49CC-A085-79E881DBF6B5}" path="LogIn.tcKDTest" />
+			<child name="Ecom" key="{012C5971-14F8-42CD-A696-1DB3E5CF33C4}" path="Ecom.tcKDTest" />
+			<child name="Test1" key="{E85C49C7-70C9-4CD3-9773-E675AB35D7A5}" path="Test1.tcKDTest" />
+			<child name="SmartBank" key="{88CCD584-AB92-4619-8456-4A32C4184D82}" path="SmartBank.tcKDTest" />
+			<child name="Contact" key="{8FD1A142-6EF1-4F3C-BC40-D1D78C5F8D95}" path="Contact.tcKDTest" />
+			<child name="param_SmartStore" key="{03139E3F-38DF-487C-8DB5-33D8E236F24A}" path="..\..\..\TestComplete15_sb\TestComplete15_sb\KeywordTests\param_SmartStore.tcKDTest" />
+			<child name="SmartStore_product" key="{B97489A0-BAD9-43C8-AF2B-DAF7AFA17808}" path="..\..\..\TestComplete15_sb\TestComplete15_sb\KeywordTests\SmartStore_product.tcKDTest" />
+			<child name="Test2" key="{6C1F9CAE-82D4-475A-B587-663A31196BA3}" path="Test2.tcKDTest" />
+			<child name="Set_Var_Val" key="{C75437A8-C1F5-4814-8FC6-0A31E5BE807A}" path="..\..\..\TestComplete15_sb\TestComplete15_sb\KeywordTests\Set_Var_Val.tcKDTest" />
+		</folder>
+		<folder name="Desktop">
+			<child name="Orders_dsktp" key="{D1895BD2-65C1-4F9A-AD87-C3E254901143}" path="Orders_dsktp.tcKDTest" />
+		</folder>
+	</children>
+</Root>
