@@ -78,7 +78,7 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelYourEnquiryHasBeen" Key="{2D90DB8B-7338-4364-9423-05EE2591459B}">
-										<Image FileName="633728992" Left="413" Top="461" Right="1523" Bottom="508" />
+										<Image FileName="948430982" Left="413" Top="461" Right="1523" Bottom="508" />
 										<TypeInfo Item0="{FBE6EBBE-697F-4C69-97E8-0EB654C6807B}" />
 										<Selectors>
 											<Selector>
@@ -143,11 +143,44 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonSendEmail" Key="{0CCE7C05-1234-48BC-817F-9AAB04050830}">
-										<Image FileName="-1830136850" Left="682" Top="787" Right="784" Bottom="838" />
+										<Image FileName="488175413" Left="691" Top="596" Right="793" Bottom="647" />
 										<TypeInfo Item0="{77B5DDEB-98A4-489B-B367-F36E1D0E0FE9}" />
 										<Selectors>
 											<Selector>
-												<Value Value="xpath=//button[@name=&apos;sendil&apos;]" />
+												<Value Value="//button[@name=&apos;send-email&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[contains(text(), &apos;Submit&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//form//button[@type=&apos;submit&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//form//button[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//button" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//form//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxYourName" Key="{AB8392D7-F67B-4D16-8C34-8F81066B552A}">
+										<Image FileName="-751278153" Left="691" Top="461" Right="1516" Bottom="506" />
+										<TypeInfo Item0="{4D032912-0CD5-43C1-B8B9-96F1FE1151C1}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@id=(//label[.=&apos;Your name&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#FullName" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;FullName&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form/div//input" />
 											</Selector>
 										</Selectors>
 									</Child>
@@ -287,11 +320,17 @@
 										</Selectors>
 									</Child>
 									<Child Name="imageShowProductsInCategoryGift" Key="{320D8806-71E1-43BB-96C5-C756FEC38A07}">
-										<Image FileName="-1158382444" Left="1351" Top="728" Right="1491" Bottom="816" />
+										<Image FileName="261820724" Left="1360" Top="736" Right="1500" Bottom="824" />
 										<TypeInfo Item0="{00530A13-B957-40F0-B809-1CDFBFA4618F}" />
 										<Selectors>
 											<Selector>
-												<Value Value="xpath=//article[11]//a/img" />
+												<Value Value="//img[@title=&apos;Show products in category Gift Cards&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;gift-cards&apos;)]/img" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[12]//a/img" />
 											</Selector>
 										</Selectors>
 									</Child>
@@ -2210,6 +2249,7 @@
 						<Child Name="emailinputYourEmail" Owner="{F27A7426-8B2D-4AD9-B21B-3C12F0E6DB50}" />
 						<Child Name="textareaEnquiry" Owner="{70133373-1C67-48C8-A458-1AE31FCAFE86}" />
 						<Child Name="buttonSendEmail" Owner="{0CCE7C05-1234-48BC-817F-9AAB04050830}" />
+						<Child Name="textboxYourName" Owner="{AB8392D7-F67B-4D16-8C34-8F81066B552A}" />
 					</Child>
 				</Child>
 			</Child>
