@@ -1181,6 +1181,27 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="textnodeHome" Key="{1C84ABF2-811A-414D-87D1-30F945A723C9}">
+										<Image FileName="-565703734" Left="376" Top="278" Right="933" Bottom="302" />
+										<TypeInfo Item0="{FBE6EBBE-697F-4C69-97E8-0EB654C6807B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Home&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;rd-navbar-nav&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodePersonal" Key="{5B7D71A6-26F9-4CAD-8DB9-9AF659781EEC}">
+										<Image FileName="-565703734" Left="461" Top="278" Right="532" Bottom="302" />
+										<TypeInfo Item0="{FBE6EBBE-697F-4C69-97E8-0EB654C6807B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Personal&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageSavings" Key="{43FB2DD5-4234-4E07-B933-E2628F100A38}">
@@ -2071,6 +2092,74 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="pageHome2" Key="{B9FA2894-6719-4D2F-85CE-5392B5EC7E98}">
+								<Image FileName="1331456781" Left="8" Top="129" Right="1928" Bottom="1040" />
+								<TypeInfo Item0="{0CF1AEA7-FEF9-439F-A27A-48B7C3332F30}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="http://smartbank.se.smartbear.io/index.html" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="header" Key="{2A7B357A-A69F-4086-B6DB-2F212D4A114A}">
+										<Image FileName="1331456781" Left="8" Top="129" Right="1913" Bottom="320" />
+										<TypeInfo Item0="{FBE6EBBE-697F-4C69-97E8-0EB654C6807B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Credit Card&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;page-head&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="nav" Key="{C49B4454-C1C5-468E-AD2D-B5C54B395175}">
+										<Image FileName="1331456781" Left="8" Top="129" Right="1913" Bottom="320" />
+										<TypeInfo Item0="{FBE6EBBE-697F-4C69-97E8-0EB654C6807B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//nav[contains(., &apos;Credit Card&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//nav[contains(@class, &apos;rd-navbar&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header/div/nav" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeHome" Key="{A8712CA9-C0D3-41E0-93BC-608ECD9E9481}">
+										<Image FileName="1331456781" Left="376" Top="278" Right="933" Bottom="302" />
+										<TypeInfo Item0="{FBE6EBBE-697F-4C69-97E8-0EB654C6807B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Home&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;rd-navbar-nav&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkPersonal" Key="{EEA23925-5820-43A4-BDA5-DB2006027055}">
+										<Image FileName="692930202" Left="461" Top="281" Right="521" Bottom="299" />
+										<TypeInfo Item0="{5B2700AC-F2F4-409B-B2A9-DA660C2AC6F9}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Personal&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//nav/div[2]//ul/li[2]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 					<Child Name="Orders" Key="{BD5FB12F-F832-447D-B491-BD4DCC0D8F40}">
@@ -2364,6 +2453,9 @@
 						<Child Name="textnodeChecking" Owner="{A9040E5B-A95D-40EE-AD0A-68EB6964BEFE}">
 							<Child Name="linkSavings" Owner="{94BDEE2B-C45E-4861-924D-3F5729A3BCAA}" />
 						</Child>
+						<Child Name="textnodeHome" Owner="{1C84ABF2-811A-414D-87D1-30F945A723C9}">
+							<Child Name="textnodePersonal" Owner="{5B7D71A6-26F9-4CAD-8DB9-9AF659781EEC}" />
+						</Child>
 					</Child>
 				</Child>
 			</Child>
@@ -2453,6 +2545,15 @@
 						</Child>
 					</Child>
 					<Child Name="buttonNext" Owner="{767FB1A4-8FBA-4B0D-BDCF-CFA65FA04C84}" />
+				</Child>
+			</Child>
+			<Child Name="pageHome2" Owner="{B9FA2894-6719-4D2F-85CE-5392B5EC7E98}">
+				<Child Name="header" Owner="{2A7B357A-A69F-4086-B6DB-2F212D4A114A}">
+					<Child Name="nav" Owner="{C49B4454-C1C5-468E-AD2D-B5C54B395175}">
+						<Child Name="textnodeHome" Owner="{A8712CA9-C0D3-41E0-93BC-608ECD9E9481}">
+							<Child Name="linkPersonal" Owner="{EEA23925-5820-43A4-BDA5-DB2006027055}" />
+						</Child>
+					</Child>
 				</Child>
 			</Child>
 		</Child>
